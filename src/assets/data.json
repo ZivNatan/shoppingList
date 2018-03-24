@@ -1,0 +1,8 @@
+{
+  "resolve": [
+      {"id":1, "name": "Bread", "quantity":1, "price":"3.75" , "description": "לחם לבן תביא פרוס" , "collected":false},
+      {"id":2, "name": "Milk", "quantity":1, "price":"4.80" , "description":"חלב טרה לא תנובה 3 אחוז", "collected":false},
+      {"id":3, "name": "Hummus", "quantity":1, "price":"12.00" , "description": "חומוס אחלה 1 קילו גרם" , "collected":false},
+      {"id":4, "name": "Coca-cola", "quantity":1, "price":"5.90" , "description":"קוקה קולה זירו או דיאט אם אין" , "collected":false}
+  ]
+}

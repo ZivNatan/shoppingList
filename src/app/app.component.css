@@ -1,0 +1,18 @@
+
+.app-container {
+  width: 800px;
+}
+
+.app-body {
+   padding: 20px;
+}
+.app-header {
+  padding: 15px;
+  height: 55px;
+  background: linear-gradient(to right, rgba(0,229,145,1), rgba(47,239,188,1));
+  color: #fff;
+  line-height: 32px;
+  font-size: 2em;
+  font-family: Helvetica, Arial;
+
+}
