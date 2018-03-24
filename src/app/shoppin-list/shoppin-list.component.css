@@ -16,7 +16,12 @@
 
 @media(max-width: 767px) {
   .shopping-list-container {
-    width: auto;
+    width: 300px;
+    margin: auto;
+  }
+  .flex-row {
+    display: block;
+    margin: 0;
   }
 }
 

@@ -15,7 +15,9 @@
 
 @media(max-width: 767px) {
   .details-container {
-    width: auto;
+    width: 300px;
+    margin: auto;
+    margin-top: 10px;
   }
 }
 
